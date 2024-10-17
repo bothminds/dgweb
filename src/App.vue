@@ -8,6 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
     <div class="wrapper">
       <h2>Darrin Gambino</h2>
+      <h2 class="rotate-180">Darrin Gambino</h2>
 
       <nav>
         <RouterLink to="/">Resume</RouterLink>
